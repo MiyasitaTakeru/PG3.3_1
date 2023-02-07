@@ -8,5 +8,5 @@ void Circle::size()
 
 void Circle::draw()
 {
-	printf("ÅZ\n");
+	printf("ÅZ\n\n");
 }
